@@ -1,0 +1,17 @@
+#ifndef COLORLISTCLASS_H
+#define COLORLISTCLASS_H
+#include "qcolor.h"
+
+/**
+ * 颜色列表类
+ * 选择常用的颜色
+*/
+
+class colorListClass{
+private:
+    QList<QColor> colorList;//选定的颜色列表
+};
+
+
+
+#endif // COLORLISTCLASS_H
