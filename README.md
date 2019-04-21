@@ -8,7 +8,7 @@ coder：eisenhao
 
 Time: 20190123
 
-![parkingSimulationSystemUMLMainWindowDiagram](https://github.com/EisenHao/ParkingSimulationSystem/parkingSimulationSystemUMLMainWindowDiagram.png)
+![parkingSimulationSystemUMLMainWindowDiagram](https://github.com/EisenHao/ParkingSimulationSystem/blob/master/parkingSimulationSystemMainWindowDiagram.png)
 
 ## 设计说明
 
@@ -52,12 +52,15 @@ Time: 20190123
 
 ### 类图
 
-![parkingSimulationSystemUMLClassDiagram](https://github.com/EisenHao/ParkingSimulationSystem/parkingSimulationSystemUMLClassDiagram.png)
+![parkingSimulationSystemUMLClassDiagram](https://github.com/EisenHao/ParkingSimulationSystem/blob/master/parkingSimulationSystemUMLClassDiagram.png)
+
 主要有：停车场类、汽车类、后台管理M系统类、IC读卡器类、栏杆类、传感器类。与栏杆类、传感器类是整体与部分关系。
 
 ### 用例图
 
-![parkingSimulationSystemUMLUseCaseDiagram](https://github.com/EisenHao/ParkingSimulationSystem/parkingSimulationSystemUMLUseCaseDiagram.png)
+![parkingSimulationSystemUMLUseCaseDiagram](https://github.com/EisenHao/ParkingSimulationSystem/blob/master/parkingSimulationSystemUMLUseCaseDiagram.png)
+
+
 
 主要描述了汽车与系统与后台管理系统M、读卡器、传感器、栏杆等参与者的关系。
 
