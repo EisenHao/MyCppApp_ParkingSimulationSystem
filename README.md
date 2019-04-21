@@ -8,7 +8,7 @@ coder：eisenhao
 
 Time: 20190123
 
-![parkingSimulationSystemUMLMainWindowDiagram](https://github.com/EisenHao/ParkingSimulationSystem/blob/master/parkingSimulationSystemMainWindowDiagram.png)
+![parkingSimulationSystemUMLMainWindowDiagram](https://github.com/EisenHao/ParkingSimulationSystem/blob/master/showFunction.gif)
 
 ## 设计说明
 
